@@ -1,3 +1,3 @@
-# Godot
-A premade thumb stick for android
+# Godot thumb stick for android
+A premade thumb stick for android 
 
